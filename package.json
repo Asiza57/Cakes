@@ -1,0 +1,24 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "deploy": "gh-pages -d site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asiza57/WebsiteCakes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+   "homepage": "https://Asiza57.github.io/Cakes",
+  "bugs": {
+    "url": "https://github.com/Asiza57/WebsiteCakes/issues"
+  },
+  "homepage": "https://github.com/Asiza57/WebsiteCakes#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
